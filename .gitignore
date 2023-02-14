@@ -10,6 +10,7 @@ venv/
 
 # Static folder at project root
 /static/
+/djangovet/settings.py
 
 # macOS
 ._*
